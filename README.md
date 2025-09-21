@@ -3,6 +3,9 @@
 Working my way through the ThreeJS Journey.
 Rendering 3D text in ThreeJS with basic animations and mesh renders. Includes orbit controls.
 
+![ScreenCap](static/images/Screencap.png)
+![ScreenCap](static/images/3DText_Screencap.gif)
+
 ## Setup
 ``` bash
 # Install dependencies (only the first time)
